@@ -1,0 +1,10 @@
+var flag = true;
+console.log("Value assignedto flag is: " + flag);
+var str = "Goodbye world";
+console.log(str);
+var num = 47;
+console.log("Value assigned to numb is " + num);
+var anything = 36;
+console.log(anything);
+var myArray = ['Apple', 'Orange', 'Banana'];
+console.log(myArray[2]);
